@@ -1,0 +1,676 @@
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csprojAssemblyReference.cache
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.cache
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CoreCompileInputs.cache
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+D:\.net\De tai nhom\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csprojAssemblyReference.cache
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.cache
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CoreCompileInputs.cache
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\EnvDTE.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\stdole.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.MSXML.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CopyComplete
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\RdlCompile.cache
+D:\.net\De tai QLKTX\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\RdlCompile.compiled
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\EnvDTE.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\stdole.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.MSXML.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csprojAssemblyReference.cache
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.cache
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\RdlCompile.cache
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\RdlCompile.compiled
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CoreCompileInputs.cache
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CopyComplete
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+D:\.net\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\EnvDTE.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\stdole.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csprojAssemblyReference.cache
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.cache
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CopyComplete
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+C:\Users\Nguyen\Downloads\drivektx\Quan ly ky tuc xa full\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\EnvDTE.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\stdole.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csprojAssemblyReference.cache
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.cache
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CopyComplete
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+C:\Users\Nguyen\Desktop\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\EnvDTE.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\stdole.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+C:\Users\HP\OneDrive\Máy tính\New folder\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csprojResolveAssemblyReference.cache
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.Cache
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csprojResolveAssemblyReference.cache
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.Cache
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\mscorlib.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\normidna.nlp
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\normnfc.nlp
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\normnfd.nlp
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\normnfkc.nlp
+D:\Tải xuống\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\normnfkd.nlp
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\mscorlib.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\System.Net.Http.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\System.Net.Http.xml
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\normidna.nlp
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\normnfc.nlp
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\normnfd.nlp
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\normnfkc.nlp
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\normnfkd.nlp
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csprojResolveAssemblyReference.cache
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+D:\ltWin\BTL_N7_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.Cache
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe.config
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.exe
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Quanlykytucxadetai.pdb
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\EnvDTE.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\stdole.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\Microsoft.MSXML.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.AssemblyReference.cache
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangky.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Dangnhap.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Frmmain.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Hoadon.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Khoa.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Loaiphong.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Lop.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phieuthu.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Phong.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Properties.Resources.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Quanlyuser.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Sinhvien.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Thongtintaikhoan.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Timkiemcs.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.Trangchu.resources
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.GenerateResource.cache
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CoreCompileInputs.cache
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.csproj.CopyComplete
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.exe
+D:\QLy KTX\BTL_LT_Winform_N03\drivektx\Quan ly ky tuc xa nhom 7\image\Quanlykytucxadetai\Quanlykytucxadetai\obj\Debug\Quanlykytucxadetai.pdb
